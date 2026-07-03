@@ -322,10 +322,10 @@ BS Computer Science Student
 AI | Machine Learning | Python Developer
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/adilali48
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://linkedin.com/in/adil-ali-a28989285
 
 ---
 
