@@ -1,3 +1,4 @@
+
 # 🚀 AI Resume Analyzer Pro
 
 An AI-powered Resume Analyzer that helps job seekers improve their resumes using **Groq LLM**, **LangChain**, and **Streamlit**.
@@ -282,3 +283,6 @@ It motivates me to build more AI-powered open-source projects.
 - Plotly
 - ReportLab
 - Python
+
+# AI-Resume-Analyzer-Pro
+ 80533e7ff02ff30066356344a3730a95e0dbb293
