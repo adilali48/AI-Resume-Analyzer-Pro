@@ -1,10 +1,72 @@
 
 # 🚀 AI Resume Analyzer Pro
 
-An AI-powered Resume Analyzer that helps job seekers improve their resumes using **Groq LLM**, **LangChain**, and **Streamlit**.
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)](https://ai-resume-analyzer-pro-nnbxptbnojynuc4hjpxyzm.streamlit.app/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+# 🚀 AI Resume Analyzer Pro
+
+An AI-powered Resume Analyzer that helps users improve their resumes using ATS scoring, AI analysis, job matching, skill gap analysis, resume rewriting, cover letter generation, and interview preparation.
+
+## 🌐 Live Demo
+
+**🔗 Try the App Here:**
+
+https://ai-resume-analyzer-pro-nnbxptbnojynuc4hjpxyzm.streamlit.app/
 
 ---
 
+## ✨ Features
+
+- 📄 Resume Parsing (PDF & DOCX)
+- 🤖 AI Resume Analysis
+- 📊 ATS Score
+- 🎯 Job Match Analysis
+- 📉 Skill Gap Analysis
+- ✨ Resume Rewriter
+- 📄 AI Cover Letter Generator
+- 🎤 AI Interview Questions
+- 📥 Download AI Reports
+- ⚡ Powered by Groq LLM
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Streamlit
+- LangChain
+- Groq API
+- Plotly
+- PyMuPDF
+- Python-docx
+- Scikit-learn
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/adilali48/AI-Resume-Analyzer-Pro.git
+
+cd AI-Resume-Analyzer-Pro
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
+
+## 📸 Screenshots
+
+> Add screenshots here.
+
+## 📬 Contact
+
+**GitHub:** https://github.com/adilali48
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
 ## 📌 Overview
 
 AI Resume Analyzer Pro is an intelligent web application that analyzes resumes, calculates ATS scores, compares resumes with job descriptions, identifies missing skills, rewrites resumes, generates cover letters, creates interview questions, and exports professional PDF reports.
